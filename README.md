@@ -1,4 +1,4 @@
-## Hi there 👋
+## <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/66dc2be5c46f68d052bfa9e6?variant=dark" alt="roadmap.sh"/></a>
 
 <!--
 **khairinafari/khairinafari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
